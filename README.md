@@ -3,7 +3,7 @@
 ### Clone Project
 1. Clone this repo to your local machine:
 ```
-git clone 
+git clone https://github.com/Sritchey1/Clicky-Game.git
 ```
 2. Open the repo and execute the following in the bash terminal. Doing so should install the required packages/dependencies:
 ```
@@ -16,5 +16,4 @@ yarn start
 ```
 4. Heroku:
 https://clicky-game-homework.herokuapp.com/
-```
 
