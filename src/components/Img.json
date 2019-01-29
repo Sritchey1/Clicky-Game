@@ -1,0 +1,48 @@
+[{
+  "name": "Black Panther",
+  "url": "./images/blackpanther.gif"
+},
+{
+  "name": "Spider Man",
+  "url": "./images/spiderman.gif"
+},
+{
+  "name": "Deadpool",
+  "url": "./images/deadpool.gif"
+},
+{
+  "name": "Wolverine",
+  "url": "./images/wolverine.gif"
+},
+{
+  "name": "Harley Quinn",
+  "url": "./images/harleyquinn.gif"
+},
+{
+  "name": "Professor X",
+  "url": "./images/professorx.gif"
+},
+{
+  "name": "Hulk",
+  "url": "./images/hulk.gif"
+},
+{
+  "name": "Batman",
+  "url": "https://media.giphy.com/media/myhb94p7RwksU/giphy.gif"
+},
+{
+  "name": "Superman",
+  "url": "https://media.giphy.com/media/3HSzHiDUtNLhu/giphy.gif"
+},
+{
+  "name": "Wonder Woman",
+  "url": "https://media.giphy.com/media/3o7WTwcO5cLAVL5Z7O/giphy.gif"
+},
+{
+  "name": "Thor",
+  "url": "https://media.giphy.com/media/1uQg9WE9JLuX6/giphy.gif"
+},
+{
+  "name": "Storm",
+  "url": "https://media.giphy.com/media/l46C8sUUi6aNIUsda/giphy.gif"
+}]
